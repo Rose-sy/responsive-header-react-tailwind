@@ -8,7 +8,7 @@ export default function Header() {
         <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
           <Link to="/" className="flex items-center">
             <img
-              src="/rojina_logo.jpg"
+              src="/Rojina_logo_transparent.png"
               className="h-16 sm:h-20 max-w-[300px] w-auto"
               alt="Logo"
             />

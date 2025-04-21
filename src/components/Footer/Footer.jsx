@@ -6,10 +6,12 @@ export default function Footer() {
         <div className="md:flex md:justify-between">
           <div className="mb-6 md:mb-0">
             <Link to="/" className="flex items-center">
-              <img
-                src="https://alexharkness.com/wp-content/uploads/2020/06/logo-2.png"
-                className="mr-3 h-16"
+              <video
+                src="/logo_animated.mp4"
+                className="mr-20 h-50"
                 alt="Logo"
+                autoPlay
+                muted
               />
             </Link>
           </div>
